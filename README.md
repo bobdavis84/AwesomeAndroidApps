@@ -289,7 +289,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 ### Fossify Clock
 
-<img alt="FossifyClockIcon" height="64" src="https://github.com/FossifyOrg/Clock/raw/master/graphics/icon.webp">
+<img alt="FossifyClockIcon" height="64" src="https://raw.githubusercontent.com/FossifyOrg/Clock/main/graphics/icon.webp">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.clock/)
@@ -533,7 +533,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 ### Fossify Calendar
 
-<img alt="FossifyCalendarIcon" height="64" src="https://github.com/FossifyOrg/Calendar/raw/master/graphics/icon.webp">
+<img alt="FossifyCalendarIcon" height="64" src="https://raw.githubusercontent.com/FossifyOrg/Calendar/main/graphics/icon.webp">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.fossify.calendar)
 - [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.calendar/)
@@ -618,7 +618,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 ### Fossify Contacts :heart:
 
-<img alt="FossifyContactsIcon" height="64" src="https://github.com/FossifyOrg/Contacts/raw/master/graphics/icon.webp">
+<img alt="FossifyContactsIcon" height="64" src="https://raw.githubusercontent.com/FossifyOrg/Contacts/main/graphics/icon.webp">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.fossify.contacts)
 - [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.contacts/)
@@ -669,7 +669,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 ### Fossify Phone :heart:
 
-<img alt="FossifyPhoneIcon" height="64" src="https://github.com/FossifyOrg/Phone/raw/master/graphics/icon.webp">
+<img alt="FossifyPhoneIcon" height="64" src="https://raw.githubusercontent.com/FossifyOrg/Phone/main/graphics/icon.webp">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.phone/)
@@ -839,7 +839,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 ### F-Droid
 
-<img alt="F-DroidIcon" height="64" src="https://gitlab.com/fdroid/fdroidclient/-/raw/master/app/src/main/res/drawable-hdpi/ic_launcher.png">
+<img alt="F-DroidIcon" height="64" src="https://gitlab.com/fdroid/fdroidclient/-/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/org.fdroid.fdroid/)
@@ -895,7 +895,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 ### Fossify File Manager
 
-<img alt="FossifyFileManagerIcon" height="64" src="https://github.com/FossifyOrg/File-Manager/raw/master/graphics/icon.webp">
+<img alt="FossifyFileManagerIcon" height="64" src="https://raw.githubusercontent.com/FossifyOrg/File-Manager/main/graphics/icon.webp">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.fossify.filemanager)
 - [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.filemanager/)
@@ -1035,7 +1035,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 ### Fossify Gallery :heart:
 
-<img alt="FossifyGalleryIcon" height="64" src="https://github.com/FossifyOrg/Gallery/raw/master/graphics/icon.webp">
+<img alt="FossifyGalleryIcon" height="64" src="https://raw.githubusercontent.com/FossifyOrg/Gallery/main/graphics/icon.webp">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.gallery/)
@@ -1399,7 +1399,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 ### FlorisBoard
 
-<img alt="FlorisBoardIcon" height="64" src="https://github.com/florisboard/florisboard/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="FlorisBoardIcon" height="64" src="https://raw.githubusercontent.com/florisboard/florisboard/main/app/src/main/res/mipmap-xxxhdpi/ic_app_icon_stable_round.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/dev.patrickgold.florisboard)
@@ -1691,7 +1691,7 @@ Currently being reworked as Neo Launcher.
 
 ### Fossify Music Player
 
-<img alt="FossifyMusicPlayerIcon" height="64" src="https://github.com/FossifyOrg/Music-Player/raw/master/graphics/icon.webp">
+<img alt="FossifyMusicPlayerIcon" height="64" src="https://raw.githubusercontent.com/FossifyOrg/Music-Player/main/graphics/icon.webp">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/org.fossify.musicplayer/)
@@ -1984,7 +1984,7 @@ Currently being reworked as Neo Launcher.
 
 ### Fossify Messages :heart:
 
-<img alt="FossifyMessagesIcon" height="64" src="https://github.com/FossifyOrg/Messages/raw/master/graphics/icon.webp">
+<img alt="FossifyMessagesIcon" height="64" src="https://raw.githubusercontent.com/FossifyOrg/Messages/main/graphics/icon.webp">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.fossify.messages)
 - [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.messages/)
@@ -2614,7 +2614,7 @@ Currently being reworked as Neo Launcher.
 
 ### Fossify Voice Recorder
 
-<img alt="FossifyVoiceRecorderIcon" height="64" src="https://github.com/FossifyOrg/Voice-Recorder/raw/master/graphics/icon.webp">
+<img alt="FossifyVoiceRecorderIcon" height="64" src="https://raw.githubusercontent.com/FossifyOrg/Voice-Recorder/main/graphics/icon.webp">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.voicerecorder/)
